@@ -6,7 +6,7 @@ Here you will find the following Folders:
 
 
 Assignments:
-&nbsp;	  A set of hw assignemnts
+&nbsp;	  A set of hw assignments
 
 
 Books:
